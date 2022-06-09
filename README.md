@@ -10,7 +10,7 @@ I'm a Software Engineer, working for the past 5 Years in React Native, ReactJs, 
 * 🖥️  See my portfolio at [My Portfolio](http://muneeb.elyxiumtech.com)
 * ✉️  You can contact me at [ahmaddmuneeb786@gmail.com](mailto:ahmaddmuneeb786@gmail.com)
 * 🚀  I'm currently working on [Falco Boutique Mobile App](http://muneeb.elyxiumtech.com)
-* 🧠  I'm learning NodeJs and Ruby on Rails
+* 🧠  I'm learning NodeJs and Ruby on Rails and Python (Django)
 * 🤝  I'm open to collaborating on open-source and on-going Web and Mobile App projects
 * ⚡  I'm a quick learner and I have 20+ online certifications in different programming languages and designing. I am a top position and scholarship holder in my high school degree.
 
@@ -44,6 +44,7 @@ I'm a Software Engineer, working for the past 5 Years in React Native, ReactJs, 
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
