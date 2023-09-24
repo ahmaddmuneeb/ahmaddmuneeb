@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/ahmaddmuneeb" target="blank"
+  <a href="https://instagram.com/ahmaddmuneeb" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+      src="https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white&bg=F37A1D&style=flat-square"
       alt="ahmaddmuneeb"
       height="30"
       width="40"
@@ -31,16 +31,16 @@
   <a href="https://linkedin.com/in/ahmaddmuneeb" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg"
+      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square"
       alt="ahmaddmuneeb"
       height="30"
       width="40"
   /></a>
-  <a href="https://medium.com/@ahmaddmuneeb" target="blank"
+  <a href="https://twitter.com/ahmaddmuneeb" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-      alt="@ahmaddmuneeb"
+      src="https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white&style=flat-square"
+      alt="ahmaddmuneeb"
       height="30"
       width="40"
   /></a>
