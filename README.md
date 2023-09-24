@@ -3,7 +3,7 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=ahmaddmuneeb&label=Profile%20views&color=0e75b6&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=ahmaddmuneeb&label=Profile%20views&color=7953B3&style=flat-square"
     alt="ahmaddmuneeb"
   />
 </p>
