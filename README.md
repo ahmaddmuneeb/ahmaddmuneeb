@@ -31,7 +31,7 @@
   <a href="https://linkedin.com/in/ahmaddmuneeb" target="blank"
     ><img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg"
       alt="ahmaddmuneeb"
       height="30"
       width="40"
