@@ -21,8 +21,5 @@ An Enthusiastic Full-stack JavaScript Developer<br>🔭 I’m currently working 
 ### ✍️ Motivation
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=ahmaddmuneeb&icon=4&color=11)](https://visitcount.itsvg.in)
-
   ## 💰 Wanna Donate
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmaddmuneeb) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmaddmuneeb) 
