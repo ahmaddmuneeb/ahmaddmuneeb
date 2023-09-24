@@ -1,6 +1,6 @@
 # 💫 About Me:
-An Enthusiastic Full-stack JavaScript Developer<br>🔭 I’m currently working on [UrduPoint Mobile App](https://www.urdupoint.com/)<br>👯 I’m looking to collaborate on Open-source projects (JavaScript)<br>🤝 I’m looking for help with learning MERN Stack and React Native<br>🌱 I’m currently learning Flutter and Dart<br>⚡ Tech Stack: NextJs, NodeJs, ReactJs, React Native, ThreeJs, TypeScript<br>👨‍💻 All of my projects are available at
-[https://de-ahma.vercel.app](https://de-ahma.vercel.app)<br>
+An Enthusiastic Full-stack JavaScript Developer<br>🔭 I’m currently working on [URDU POINT](https://www.urdupoint.com/)<br>👯 I’m looking to collaborate on Open-source projects (JavaScript)<br>🤝 I’m looking for help with learning MERN Stack and React Native<br>🌱 I’m currently learning Flutter and Dart<br>⚡ Tech Stack: NextJs, NodeJs, ReactJs, React Native, ThreeJs, TypeScript<br>👨‍💻 All of my projects are available at
+[PORTFOLIO](https://de-ahma.vercel.app)<br>
 
 <p align="left">
   <img
