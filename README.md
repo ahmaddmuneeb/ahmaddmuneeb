@@ -26,7 +26,7 @@
       src="https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white&bg=F37A1D&style=flat-square"
       alt="ahmaddmuneeb"
       height="30"
-      width="40"
+      width="80"
   /></a>
   <a href="https://linkedin.com/in/ahmaddmuneeb" target="blank"
     ><img
@@ -34,7 +34,7 @@
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square"
       alt="ahmaddmuneeb"
       height="30"
-      width="40"
+      width="80"
   /></a>
   <a href="https://twitter.com/ahmaddmuneeb" target="blank"
     ><img
@@ -42,7 +42,7 @@
       src="https://img.shields.io/badge/twitter-%230077B5.svg?logo=twitter&logoColor=white&style=flat-square"
       alt="ahmaddmuneeb"
       height="30"
-      width="40"
+      width="80"
   /></a>
 </p>
 
