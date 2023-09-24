@@ -1,4 +1,10 @@
 # 💫 About Me:
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ahmaddmuneeb&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ahmaddmuneeb"
+  />
+</p>
 An Enthusiastic Full-stack JavaScript Developer<br>🔭 I’m currently working on UrduPoint Mobile App<br>👯 I’m looking to collaborate on Open-source projects (JavaScript)<br>🤝 I’m looking for help with learning MERN Stack and React Native<br>🌱 I’m currently learning Flutter and Dart<br>⚡ Tech Stack: NextJs, NodeJs, ReactJs, React Native, ThreeJs, TypeScript
 
 
