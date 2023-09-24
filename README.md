@@ -11,11 +11,11 @@
 - 🔭 I’m currently working on [UrduPoint](https://www.urdupoint.com/)
 - 🌱 I’m currently learning **Dart, Django, Flutter**
 - 👯 I’m looking to collaborate on **Open-source projects**
-- 👨‍💻 All of my projects are available at [https://de-ahma.vercel.app](https://de-ahma.vercel.app)
-- 📝 I regularly write articles on [medium.com/ahmaddmuneeb](medium.com/ahmaddmuneeb)
+- 👨‍💻 All of my projects are available at [Portfolio](https://de-ahma.vercel.app)
+- 📝 I regularly write articles on [Medium](medium.com/ahmaddmuneeb)
 - 💬 Ask me about **ReactJs, NextJs, NodeJs, React Native, XD | Figma**
 - 📫 How to reach me **muneeb.ahmad@virtuousstack.org**
-- 📄 Know about my experiences [https://de-ahma.vercel.app](https://de-ahma.vercel.app)
+- 📄 Know about my experiences [Experience](https://de-ahma.vercel.app)
 - ⚡ Fun fact **I am a mad and enthusiastic developer 😉**
 
 <h3 align="left">Connect with me:</h3>
