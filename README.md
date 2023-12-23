@@ -1,25 +1,137 @@
-# 💫 About Me:
-An Enthusiastic Full-stack JavaScript Developer<br>🔭 I’m currently working on [URDU POINT](https://www.urdupoint.com/)<br>👯 I’m looking to collaborate on Open-source projects (JavaScript)<br>🤝 I’m looking for help with learning MERN Stack and React Native<br>🌱 I’m currently learning Flutter and Dart<br>⚡ Tech Stack: NextJs, NodeJs, ReactJs, React Native, ThreeJs, TypeScript<br>👨‍💻 All of my projects are available at
-[PORTFOLIO](https://de-ahma.vercel.app)<br>📫 How to reach me
-**muneeb.ahmad@virtuousstack.org**
+<body>
+  <div align="center">
+    <h1 style="color: #F7CC18FF;">Hi there, I'm Muneeb Ahmad👋<a href="#"></a></h1>
+  </div>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=WordPress+Developer+;React+Developer;Front+End+Developer" alt="Typing SVG" />
+    </a>
+  </p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=ahmaddmuneeb&label=Profile%20views&color=0e75b6&style=flat-square"
-    alt="ahmaddmuneeb"
-  />
+  <h3>I am a Senior Software Engineer (MERN & React Native)</h3>
+  <ul>
+    <li>🔭 I’m currently working as a Full Stack Develoep on URDUPOINT App</li>
+    <li>💎 I can customize the plugin and themes for WordPress website</li>
+    <li>🌱 I’m currently expanding my knowledge in MERN Stack</li>
+    <li>👯 I want to collaborate with other developers</li>
+    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    
+  </ul>
+	
+<h2>Tech Stack</h2>
+
+<table>
+<tr>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg"  width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
+</td>
+<td align='center'>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+</td>
+</tr>
+<tr>
+<td align='center'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="70">
+</td>
+<td align='center'>
+<img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+</td>
+<td align='center' width="200">
+<img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67">
+</td>
+</tr>
+<tr>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+</td>
+<td align='center' width="200">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+</td>
+<td align='center' width="200">
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
+</td>
+</tr>
+<tr>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
+</td>
+<td align='center' width="200">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+</td>
+<td align='center'>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+</td>
+</tr>
+</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hafiz-m-huzaifa-khalid-69048b1b5/"><img src="https://img.shields.io/badge/-Hafiz%20M%20Huzaifa%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:hmhuzaifakhalid@gmail.com"><img src="https://img.shields.io/badge/-hmhuzaifakhalid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmaddmuneeb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ahmaddmuneeb) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/ahmaddmuneeb) 
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Streak</th>
+    <th>Languages</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa215&theme=gruvbox"/></td>
+  </tr>
+</table>
+	
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat-square&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat-square&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-# 📶 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmaddmuneeb&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+	
+## Personal Projects
 
-### ✍️ Motivation
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+| Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
+| ----------------- | ------------- | ---------------- | ------------------ | -------------- |
+| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
+| [**Github Profile**](https://github.com/huzaifa215/huzaifa215) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/huzaifa215?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/huzaifa215?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/huzaifa215?color=blue&logo=github&style=flat) |
+| [**Ecomerence**](https://github.com/huzaifa215/ecommerce-rest-api) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/ecommerce-rest-api?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/huzaifa215/ecommerce-rest-api?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/ecommerce-rest-api?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/ecommerce-rest-api?color=blue&logo=github&style=flat) |
+| [**Card Recognization**](https://github.com/huzaifa215/cardRecognition) | ![GitHub issues](https://img.shields.io/github/issues/huzaifa215/cardRecognition?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/huzaifa215/cardRecognition?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/huzaifa215/cardRecognition?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/huzaifa215/cardRecognition?color=blue&logo=github&style=flat) |
 
-  ## 💰 Wanna Donate
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmaddmuneeb) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmaddmuneeb) 
+[![@Huzaifa's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@huzaifa)
+
+## 🚀Github Metrics
+
+<p align="center">
+    <img width="625em" src="https://github.com/huzaifa215/huzaifa215/blob/main/github-metrics.svg" />
+</p>
+    
+## 🐛Github Magic Game
+
+<p align="center">
+  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<br>
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/saadfareed/count.svg">
+</p>
+		
+![](https://hit.yhype.me/github/profile?user_id=50300882)
