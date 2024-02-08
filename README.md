@@ -82,9 +82,9 @@
 <td align='center'>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
 	<td align='center'>
-<img src="https://www.vectorlogo.zone/logos/reactjs/laravel.svg">
+<img src="https://www.vectorlogo.zone/logos/reactjs/laravel-original-wordmark.svg">
 		<td align='center'>
-<img src="https://www.vectorlogo.zone/logos/reactjs/php.svg">
+<img src="https://www.vectorlogo.zone/logos/reactjs/php-original.svg">
 </td>
 </tr>
 </table>
