@@ -81,8 +81,10 @@
 </td>
 <td align='center'>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+	</td>
 	<td align='center'>
 <img src="https://www.vectorlogo.zone/logos/reactjs/laravel-original-wordmark.svg">
+		</td>
 		<td align='center'>
 <img src="https://www.vectorlogo.zone/logos/reactjs/php-original.svg">
 </td>
