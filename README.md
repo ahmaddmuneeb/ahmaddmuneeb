@@ -85,8 +85,8 @@
 </tr>
 </table>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hafiz-m-huzaifa-khalid-69048b1b5/"><img src="https://img.shields.io/badge/-Hafiz%20M%20Huzaifa%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:hmhuzaifakhalid@gmail.com"><img src="https://img.shields.io/badge/-hmhuzaifakhalid@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmaddmuneeb/"><img src="https://img.shields.io/badge/-Muneeb%20Ahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ahmaddmuneeb786@gmail.com"><img src="https://img.shields.io/badge/-ahmaddmuneeb786@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <table>
@@ -98,7 +98,7 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadfareed&theme=gruvbox"/></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=saadfareed&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa215&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmaddmuneeb&theme=gruvbox"/></td>
   </tr>
 </table>
 	
