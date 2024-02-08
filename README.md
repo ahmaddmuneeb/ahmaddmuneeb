@@ -51,11 +51,11 @@
 <td align='center' width="200">
 <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
 </td>
-</tr>
-<tr>
 <td align='center' width="200">
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
 </td>
+</tr>
+<tr>
 <td align='center' width="200">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
 </td>
