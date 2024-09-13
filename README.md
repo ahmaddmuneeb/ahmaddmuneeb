@@ -43,10 +43,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmaddmuneeb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmaddmuneeb" /></a><a href="https://ko-fi.com/ahmaddmuneeb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahmaddmuneeb" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddmuneeb&show_icons=true&locale=en&layout=compact" alt="ahmaddmuneeb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmaddmuneeb&show_icons=true&locale=en" alt="ahmaddmuneeb" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddmuneeb&" alt="ahmaddmuneeb" /></p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddmuneeb&show_icons=true&locale=en&layout=compact" alt="ahmaddmuneeb" style="flex: 1; margin-right: 10px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmaddmuneeb&show_icons=true&locale=en" alt="ahmaddmuneeb" style="flex: 2; margin: 0 10px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddmuneeb&" alt="ahmaddmuneeb" style="flex: 1; margin-left: 10px;"/>
+</div>
 
 [![@Muneeb's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@ahmaddmuneeb)
