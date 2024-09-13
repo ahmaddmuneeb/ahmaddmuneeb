@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1 style="color: #F7CC18FF;">Hi there, I'm Muneeb Ahmad👋<a href="#"></a></h1>
+    <h1 style="color: #F7CC18FF;">Hello, I’m Muneeb Ahmad 👋<a href="#"></a></h1>
   </div>
   <p align="center">
     <a href="https://git.io/typing-svg">
@@ -8,13 +8,14 @@
     </a>
   </p>
 
-  <h3>I am a Senior Software Engineer (MERN & React Native)</h3>
+  <h3>I am a Senior Software Engineer specializing in MERN stack and React Native</h3>
   <ul>
-    <li>🔭 I’m currently working as a Full Stack Develoep on URDUPOINT App</li>
-    <li>💎 I can customize the plugin and themes for WordPress website</li>
-    <li>🌱 I’m currently expanding my knowledge in MERN Stack</li>
-    <li>👯 I want to collaborate with other developers</li>
-    <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
+    <li>🔭 I am currently working as a Senior Mobile Engineer on Cozone mobile apps.</li>
+    <li>💎 I have 5+ years of experience in mobile application development.</li>
+    <li>🚀 Successfully published npm packages for React Native, contributing valuable tools to the developer community.</li>
+    <li>📚 I am currently advancing my knowledge in the MERN Stack, focusing on achieving an extensive and expert-level understanding.</li>
+    <li>👯 I am looking to collaborate with other developers and work with larger teams to contribute to impactful projects.​⬤</li>
+    <li>🎯 Goals for 2024-25: Actively contribute to open-source projects and bring my innovative ideas to life.</li>
     
   </ul>
 	
