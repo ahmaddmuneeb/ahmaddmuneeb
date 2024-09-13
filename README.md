@@ -45,9 +45,6 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddmuneeb&show_icons=true&locale=en&layout=compact" alt="ahmaddmuneeb" style="flex: 1; margin-right: 10px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmaddmuneeb&show_icons=true&locale=en" alt="ahmaddmuneeb" style="flex: 2; margin: 0 10px;"/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddmuneeb&" alt="ahmaddmuneeb" style="flex: 1; margin-left: 10px;"/>
 </div>
 
