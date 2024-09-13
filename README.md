@@ -112,18 +112,6 @@
 
 [![@Muneeb's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@ahmaddmuneeb)
 
-## 🚀Github Metrics
-
-<p align="center">
-    <img width="625em" src="https://github.com/ahmaddmuneeb/ahmaddmuneeb/blob/main/github-metrics.svg" />
-</p>
-    
-## 🐛Github Magic Game
-
-<p align="center">
-  <img src="https://github.com/saadfareed/saadfareed/raw/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 <br>
 
 <p align="center"> 
