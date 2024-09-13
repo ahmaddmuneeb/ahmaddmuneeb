@@ -43,6 +43,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmaddmuneeb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmaddmuneeb" /></a><a href="https://ko-fi.com/ahmaddmuneeb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahmaddmuneeb" /></a></p><br><br>
 
-<p><img style="width: 100%; height: 460px; flex-direction: row; display: flex; align-items: flex-start; justify-content: flex-start; align-self: flex-start; text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddmuneeb&show_icons=true&locale=en&layout=compact" alt="ahmaddmuneeb" /></p>
+<p><img style="width: 100%; height: 100%; margin-top: 20px; flex-direction: row; display: flex; align-items: flex-start; justify-content: flex-start; align-self: flex-start; text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmaddmuneeb&show_icons=true&locale=en&layout=compact" alt="ahmaddmuneeb" /></p>
 
 [![@Muneeb's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@ahmaddmuneeb)
