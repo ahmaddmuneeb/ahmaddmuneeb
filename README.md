@@ -141,22 +141,6 @@ const muneeb = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddmuneeb&theme=gruvbox&hide_border=true&background=ffffff&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" width="95%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmaddmuneeb&theme=gruvbox&hide_border=true&bg_color=ffffff&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%"/>
-
-</div>
-
-
-
 ## 🌐 Connect with Me
 
 <div align="center">
