@@ -145,7 +145,7 @@ const muneeb = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddmuneeb&theme=gruvbox&hide_border=true&background=ffffff&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmaddmuneeb&theme=gruvbox&hide_border=true&background=ffffff&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub Streak" width="95%"/>
 
 </div>
 
